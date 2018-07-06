@@ -4,11 +4,9 @@ A jQuery plugin helps you create a static time table (time sheet) containing can
 
 Customized using JSON objects
 
-```markdown
-
 # DEMO
 
-`Here is your link`
-
 [Click here](https://sachinfernandez.github.io/Time-line-Tracker/)
-```
+
+
+
